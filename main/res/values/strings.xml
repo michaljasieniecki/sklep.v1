@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sklep</string>
+    <string name="imi_i_nazwisko">Imię i Nazwisko</string>
+    <string name="dodaj_myszki_i_klawiatury_800_z_x_ilo">dodaj myszki i klawiatury +800 zł x ilość</string>
+    <string name="dodaj_monitory_1000_z_x_ilo">dodaj monitory + 1000 zł x ilość</string>
+    <string name="dodaj_tablety_graficzne_500_z_x_ilo">dodaj tablety graficzne + 500 zł x ilość</string>
+    <string name="zam_w">Zamów</string>
+    <string name="numer_telefonu">Numer Telefonu</string>
+    <string name="email">Email</string>
+    <string name="wy_lij">Wyślij</string>
+</resources>

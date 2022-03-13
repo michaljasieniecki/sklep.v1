@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sklep</string>
+    <string name="imi_i_nazwisko">Name and Surname</string>
+    <string name="dodaj_myszki_i_klawiatury_800_z_x_ilo">Add mouse and keyboard + 800 zł x quantity</string>
+    <string name="dodaj_monitory_1000_z_x_ilo">Add monitor + 1000 zł x quantity</string>
+    <string name="dodaj_tablety_graficzne_500_z_x_ilo">Add graphic tablet + 500 zł x quantity</string>
+    <string name="zam_w">Order</string>
+</resources>
